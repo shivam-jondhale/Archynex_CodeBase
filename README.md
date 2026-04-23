@@ -1,5 +1,7 @@
 # ArchyNex
 
+**🌍 Live Demo:** [https://archynex.vercel.app/](https://archynex.vercel.app/)
+
 **ArchyNex** is an advanced, AI-powered system architecture design tool that allows developers and architects to intuitively build, visualize, and generate software system architectures. Featuring an interactive infinite canvas, smart AI generation capabilities, and a microservices-based backend, ArchyNex streamlines the process of system design from conceptualization to export.
 
 ## 🚀 Features
