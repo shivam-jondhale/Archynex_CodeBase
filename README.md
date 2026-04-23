@@ -79,9 +79,7 @@ npm run dev
 
 The application should now be accessible at `http://localhost:3000`.
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ## 📝 License
 
