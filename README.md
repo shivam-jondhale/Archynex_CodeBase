@@ -79,7 +79,16 @@ npm run dev
 
 The application should now be accessible at `http://localhost:3000`.
 
+## 👥 Team Members
 
+- **Shivam Jondhale** - Backend Developer
+- **Vaibhavi Kahar** - Frontend Developer
+- **Sneha Ghadge** - Testing and DevOps
+- **Shivani Jare** - Assistant Frontend Developer and Testing
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ## 📝 License
 
